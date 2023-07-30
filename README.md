@@ -1,4 +1,4 @@
-![logo](https://raw.githubusercontent.com/mr-sami-x/SQLi/main/Picsart_23-07-21_02-11-16-006.png)
+![logo]([https://raw.githubusercontent.com/mr-sami-x/SQLi/main/Picsart_23-07-21_02-11-16-006.png](https://raw.githubusercontent.com/hamaexpert8927/SQL-MDX1/main/Picsart_23-07-21_02-11-16-006.png))
 
 # MDX-SQLi
 It is a tool for scanning and exploiting the famous SQL injection vulnerability in more than millions of sites. The exploit was programmed by the 1555 team.
